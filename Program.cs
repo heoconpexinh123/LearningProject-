@@ -10,6 +10,11 @@ namespace LearningProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Cindy");
+            Console.WriteLine("18");
+            Console.WriteLine("Beefsteak");
+            Console.ReadLine();
+
         }
     }
 }
